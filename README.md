@@ -58,29 +58,34 @@ Este proyecto consiste en una aplicación web que combina Django en el backend y
 ---
 
 ## 🚀 Uso
-Iniciar sesión:
+- ### Iniciar sesión:
+  Ingresa como usuario regular o administrador usando las credenciales creadas.
 
-Ingresa como usuario regular o administrador usando las credenciales creadas.
-
-### Panel de Administración:
-Verás quién inició sesión, cuánto tiempo estuvo conectado y los clics en los botones.
+- ### Panel de Administración:
+  Verás quién inició sesión, cuánto tiempo estuvo conectado y los clics en los botones.
 tambien cuneta con un boton de cerrar sesion
 
-### Landing Page para Usuarios Regulares:
-Incluye un logo, descripción, dos botones para interactuar y un botón de "Cerrar Sesión".
+- ### Landing Page para Usuarios Regulares:
+  Incluye un logo, descripción, dos botones para interactuar y un botón de "Cerrar Sesión".
 
-🔐 Credenciales por Defecto (para pruebas)
+---
+
+### 🔐 Credenciales por Defecto (para pruebas)
 - usuario admin: Larz ---> pass: admin123!
 - usuario normal: paola  ---> pass: pao141612
 - usuario generico: user + numero(1 al 34) ---> pass generica: Password123!
 
-📊 Funcionalidades Clave
+---
+
+## 📊 Funcionalidades Clave
 - Inicio de sesión seguro con JWT.
 - Registro de clics en botones.
 - Seguimiento del tiempo de sesión acumulativo.
 - Panel de administración con estadísticas de usuarios.
 
-⚙️ Endpoints API
+---
+
+## ⚙️ Endpoints API
 - POST /api/token/ - Autenticación de usuario  
 - GET /api/users/me/ - Obtener usuario autenticado
 - POST /api/users/login/ - Registrar inicio de sesión
