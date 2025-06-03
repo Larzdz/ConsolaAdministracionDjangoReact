@@ -24,6 +24,10 @@
 </p>
 
 ---
+## 📝 Descripción
+Este proyecto consiste en una aplicación web que combina Django en el backend y React en el frontend para ofrecer una consola de administración interactiva. El sistema permite gestionar usuarios, registrar clics, medir tiempos de sesión y visualizar estadísticas desde un panel de control. Los usuarios pueden iniciar sesión como administradores o como usuarios regulares. La aplicación también incluye una landing page exclusiva para usuarios normales, con elementos interactivos y funcionalidad de cierre de sesión. Desde el panel de administración, es posible visualizar qué usuario ha iniciado sesión, la duración de su sesión y su actividad mediante clics.
+
+---
 
 ## 🗂️ Tecnologías Utilizadas
 - **Frontend:** React, Axios
