@@ -1,5 +1,30 @@
 ## 🚀 Consola de Administración con Django y React
 
+<p align="center">
+  <img src="https://res.cloudinary.com/dry8bdxce/image/upload/v1748923726/login_wm02hu.png" width="45%" alt="Captura 1" />
+</p>
+<p align="center">
+  <em>Captura de pantalla Login</em>
+</p>
+<p align="center">
+  <img src="https://res.cloudinary.com/dry8bdxce/image/upload/v1748923726/DashAdmin_belnud.png" width="45%" alt="Captura 2" />
+</p>
+<p align="center">
+  <em>Captura de pantalla Panel de administrador</em>
+</p>
+<p align="center">
+    <img src="https://res.cloudinary.com/dry8bdxce/image/upload/v1748923726/DashUser_ogjbbu.png" width="45%" alt="Captura 3" />
+</p>
+<p align="center">
+  <em>Captura de pantalla Panel de Usuario</em>
+</p>
+
+<p align="center">
+  <em>Capturas de pantalla del proyecto Calculadora Light/Dark</em>
+</p>
+
+---
+
 ## 🗂️ Tecnologías Utilizadas
 - **Frontend:** React, Axios
 - **Backend:** Django, Django REST Framework
@@ -11,7 +36,7 @@
 
 1️⃣ Clonar el Repositorio
 
-- git clone https://github.com/larz13/PruebaPanzofi.git
+- git clone https://github.com/larz13/ConsolaAdministracionDjangoReact.git
 - cd  PruebaPanzofi
 
 2️⃣ Configuración del Backend (Django)
