@@ -36,8 +36,8 @@ Este proyecto consiste en una aplicación web que combina Django en el backend y
 
 1️⃣ Clonar el Repositorio
 
-- git clone https://github.com/larz13/ConsolaAdministracionDjangoReact.git
-- cd  PruebaPanzofi
+- git clone https://github.com/larzdz/ConsolaAdministracionDjangoReact.git
+- cd  ConsolaAdministracionDjangoReact
 
 2️⃣ Configuración del Backend (Django)
 
@@ -55,7 +55,9 @@ Este proyecto consiste en una aplicación web que combina Django en el backend y
 - npm install
 - npm run dev
 
-🚀 Uso de la Aplicación
+---
+
+## 🚀 Uso
 Iniciar sesión:
 
 Ingresa como usuario regular o administrador usando las credenciales creadas.
@@ -85,3 +87,8 @@ Incluye un logo, descripción, dos botones para interactuar y un botón de "Cerr
 - POST /api/users/logout/ - Registrar cierre de sesión
 - POST /api/button-clicks/ - Registrar clics en botones
 - GET /api/session-logs/ - Ver logs de sesiones
+
+---
+
+## 📄 Licencia
+Este proyecto es de uso personal y educativo.
